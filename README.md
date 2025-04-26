@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Rehman
 
-<!--
-**AbRehman0346/AbRehman0346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer | Full-Stack Engineer | Database Designer**  
 
-Here are some ideas to get you started:
+💻 **Tech Stack**:  
+- **Mobile**: Flutter, Dart, Firebase  
+- **Web**: React.js, Node.js, Express, MongoDB  
+- **Databases**: MySQL, Neo4J, Firestore  
+- **Tools**: Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently Working On**:  
+- Building a cross-platform app with Flutter + Firebase  
+- Learning GraphQL for APIs  
+
+🌱 **Goals**:  
+- Contribute to open-source projects  
+- Master microservices architecture  
+
+📫 **Reach Me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-red)](mailto:youremail@example.com)  
+
+⚡ **Fun Fact**: I speak 3 languages (English, Urdu, Sindhi)!  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulRehmanDev&show_icons=true&theme=radical)
