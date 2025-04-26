@@ -17,8 +17,8 @@
 - Master microservices architecture  
 
 📫 **Reach Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-red)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ab-rehman-f5)  
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-red)](mailto:abrehman0346@gmail.com)  
 
 ⚡ **Fun Fact**: I speak 3 languages (English, Urdu, Sindhi)!  
 
