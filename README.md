@@ -17,7 +17,6 @@
 - Master microservices architecture  
 
 📫 **Reach Me**:  
-📫 **Reach Me**:  
 <a href="https://www.linkedin.com/in/ab-rehman-f5" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
 </a>     
